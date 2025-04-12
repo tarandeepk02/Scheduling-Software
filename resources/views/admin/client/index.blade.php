@@ -339,7 +339,7 @@ border-bottom-right-radius: 15px!important;
 			   
             });
       </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAWjv_B5Ug9dxwMc9ig9dr1AjReKMvjZxE&libraries=places&callback=initAutocomplete" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=&libraries=places&callback=initAutocomplete" async defer></script>
 <script type="text/javascript">//<![CDATA[
 
 
